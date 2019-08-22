@@ -7,7 +7,7 @@ preview: holder.js/300x300?auto=yes
 
 <!--![Picture 1](holder.js/800x600?auto=yes)-->
 
-Raga & Taala
+#Raga & Taala
 
 Raga (ragam in Carnatic music) refers to melodic modes used in Indian classical music. It is a series of five or more musical notes upon which a melody is made. In the Indian musical tradition, ragas are associated with different times of the day, or with seasons.
 The present system of Indian music stands on two important pillars: raga and tala. Raga is the melodic form while tala is the rhythm underlying music. Together, raga and tala distinguish Indian music from many other musical systems of the world. The rhythm of music is explored through beats in time. Melody evolved as the raga through several processes; the tala resulted from a similar evolution in rhythm.
