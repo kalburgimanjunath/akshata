@@ -4,7 +4,7 @@ title: About Akshata
 permalink: /about/
 ---
 
-Akshata Miskin (born 13 November 1996) is an Indian musician who plays the sitar. She belongs to the Seventh generation of musicians with the illustrious sitar players whose contributing in popularizing sitar down the Vindhyaas is unparalleled from the Dharwad Gharana. She provides training in instrumental music in Orchids School
+Akshata Miskin (born 13 November 1996) is an Indian musician who plays the sitar. She belongs to the Seventh generation of musicians with the illustrious sitar player whose contributing in popularizing sitar down the Vindhyaas is unparalleled from the Dharwad Gharana. She provides training in instrumental music in Orchids School
 
 She completed her Diploma Education in Government diploma polytechnic college and Bachelors in B.V.B College of Engineering and Science,Hubli. She received many scholarship and had an opportunity to meet some of the great scholars.
 
