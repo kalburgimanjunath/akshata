@@ -5,7 +5,7 @@ date:   2019-08-22 15:39:40
 preview: http://sitarratna.com/images/history_img1.gif
 ---
 
-![Picture 1](http://sitarratna.com/images/history_img1.gif/800x600?auto=yes)
+#![Picture 1](http://sitarratna.com/images/history_img1.gif/800x600?auto=yes)
 
 The Sitar Origin and Development
 The Sitar occupies a place of pride among Indian musical instruments. It is easily the most charming of all instruments. The Sitar was known in ancient India by various names like devadattaa, maruyashti, mahati, parivaadini, saptatantri etc.
